@@ -1,2 +1,2 @@
-# Android-Sucks
-WELCOME to the most lame ass os ever Android
+Parallel programming codes using MPI and C programming language
+
